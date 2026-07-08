@@ -29,5 +29,5 @@ Spring Bootk公式ガイドをならって作成したwebアプリです。
 1. リポジトリをクローン
 
 ```bash
-git clone [リポジトリのURL]
+git clone https://github.com/nozaki-12/rest-service.git
 ```
